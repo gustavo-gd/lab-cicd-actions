@@ -2,3 +2,6 @@
 pedido #1: modificar design  - Como cliente desejo que mude a cor do site para azul pois ira combinar mais
 ### Test Story
 checklist [] modificar design
+### Ops Story
+problema: Ao alterar a cor deu conflito com as diversas cores que tinham no site
+solução: será necessario reorganizar a paleta de cores do site para maior armonia
