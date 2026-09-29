@@ -5,3 +5,15 @@ checklist [] modificar design
 ### Ops Story
 problema: Ao alterar a cor deu conflito com as diversas cores que tinham no site
 solução: será necessario reorganizar a paleta de cores do site para maior armonia
+
+pedido #1 -> IN PROGRESS
+editando... index.html
+
+commit change close #1 - foi necessario reavaliação apos o erro de cores e reorganilizado para completar o pedido do cliente
+
+Accions
+Acompanhando:
+verificando (correto)
+publicando site (correto)
+
+Reavaliação Cliente: A proatividade da equipe em agilizar o pedido e solucionar os problemas que surgiram durante o processo, que pude analisar nas anotações feitas (test story e Ops story)
