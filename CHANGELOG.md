@@ -7,3 +7,5 @@
 
   ## versão 3 - publicada
   - erro corrigido - cor alternada
+  - erro corrigido - mudança de titulo e emojis
+ 
