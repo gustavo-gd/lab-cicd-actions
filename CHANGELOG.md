@@ -1,5 +1,7 @@
 # Historico de versões
-
+## versão 5 - andamento
+- () mudar cor para azul novamente
+  
 ## versão 4 - publicada em 05/10
 - () pedido 1: mudar cor de fundo para amarelo
 - () pedido 2: mudar o titulo e emoji
