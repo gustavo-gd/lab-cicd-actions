@@ -1,4 +1,10 @@
 # Historico de versões
+## Versão Final — 16/11/2026 (fim de vida)
+- Motivo: fim da disciplina
+- Aviso: mensagem no próprio site
+- Dados: o código fica no repositório
+- Substituto: nenhum
+
 ## versão 5 - concluido em 19/10
 - (x) mudar cor para azul novamente
   
